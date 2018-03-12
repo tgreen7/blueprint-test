@@ -2,7 +2,7 @@
   "name": "blueprint-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://tgreen.github.io/blueprint-test",
+  "homepage": "https://tgreen7.github.io/blueprint-test/",
   "dependencies": {
     "@blueprintjs/core": "^2.0.0-rc.2",
     "react": "^16.2.0",
